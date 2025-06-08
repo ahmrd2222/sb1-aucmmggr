@@ -1,17 +1,17 @@
 const portraitData = {
   title: "Portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
-  coverImage: "<a href="https://ibb.co/b5rG5QrM"><img src="https://i.ibb.co/hFKTFLKJ/IMG-2093.jpg" alt="IMG-2093" border="0"></a>",
+  coverImage: "gg"
   subcategories: [
     {
       id: "nature-portraits",
       title: "Nature Portraits",
       description: "Beautiful portraits set in natural environments",
-      coverImage: "https://images.pexels.com/photos/1066116/pexels-photo-1066116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      coverImage: "gg",
       photos: [
         {
           id: "np-1",
-          src: "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/rRJwXt8d/IMG-2060.jpg",
           alt: "Woman in green forest",
           description: "Portrait session in a lush green forest"
         },
