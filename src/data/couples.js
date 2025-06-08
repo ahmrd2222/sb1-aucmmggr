@@ -1,5 +1,5 @@
 const couplesData = {
-  title: "Couples & Engagements",
+  title: "Couples & Engggagements",
   description: "Celebrating love and connection through thoughtful photography",
   coverImage: "https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   galleries: [
