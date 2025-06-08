@@ -1,7 +1,7 @@
 const portraitData = {
   title: "Portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
-  coverImage: "IMG_0834 (1) (1).jpg",
+  coverImage: "ahmrd2222/sb1-aucmmggr/IMG_0834 (1) (1).jpg",
   subcategories: [
     {
       id: "nature-portraits",
