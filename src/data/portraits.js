@@ -1,7 +1,7 @@
 const portraitData = {
   title: "Portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
-  coverImage: "C:\Users\alhal\OneDrive\الصور\Photographer Self Portrait.jpg",
+  coverImage: "https://ibb.co/r2TVg4B1",
   subcategories: [
     {
       id: "nature-portraits",
