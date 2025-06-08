@@ -1,7 +1,7 @@
 const portraitData = {
   title: "Portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
-  coverImage: "https://drive.google.com/uc?id= 1SWi0lIoDmun3050W8mct6IXYiEz0aaS",
+  coverImage: "https://photos.google.com/u/5/photo/AF1QipNB-XfpDrrQ4JcTQWQgV37cNW065R25ARl0mGVt",
   subcategories: [
     {
       id: "nature-portraits",
